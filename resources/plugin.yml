@@ -1,0 +1,10 @@
+name: Tablist
+version: ${project.version}
+main: Tablist
+commands:
+  tabrconfig:
+    permission: richboy.tablist.reload
+    usage: /tabreload
+permission:
+  tab.tablist.reload:
+    description: Perm to reload tablist
