@@ -1,0 +1,12 @@
+delay: 20 # Delay for each tab update in ticks. 1 second = 20 ticks (changing requires server restart)
+
+tablist:
+  header:
+    - ""
+    - ""
+    - ""
+  footer:
+    - ""
+    - "%tps%&3 tps — %players% players — %ping% ping — %uptime% uptime"
+    - ""
+    - ""
